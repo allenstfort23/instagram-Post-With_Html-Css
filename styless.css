@@ -1,0 +1,38 @@
+/* * {
+    border: red 1px solid;
+} */
+body {
+    background-color: rgb(204, 204, 204);
+}
+.top {
+    text-align: center;
+}
+.title {
+    background-color: white;
+    padding: 30px;
+}
+.card {
+    margin: 50px auto;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    background: white;
+}
+img {
+    width: 100%;
+}
+.header {
+    height: 30%;
+    color: black;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+}
+.container {
+    text-align: left;
+}
+
+.grey-numbers {
+    color: rgb(180, 180, 180);
+}
